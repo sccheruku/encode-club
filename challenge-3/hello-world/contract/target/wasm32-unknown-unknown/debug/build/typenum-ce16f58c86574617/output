@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/sai/src/near/challenge-3/hello-world/contract/target/wasm32-unknown-unknown/debug/build/typenum-ce16f58c86574617/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/sai/src/near/challenge-3/hello-world/contract/target/wasm32-unknown-unknown/debug/build/typenum-ce16f58c86574617/out/op.rs
