@@ -1,3 +1,9 @@
+### Please find the repository here: 
+https://github.com/sccheruku/encode-club/blob/main/submission.md
+https://github.com/sccheruku/encode-club
+
+
+
 ## The published contract is here - 
 https://explorer.testnet.near.org/accounts/dev-1644038625906-15095311362465
 
